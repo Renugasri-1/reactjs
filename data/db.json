@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "renuga"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "blockchain"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "AI"
+    },
+    {
+      "id": "11",
+      "checked": true,
+      "item": "reshma"
+    },
+    {
+      "id": "111",
+      "checked": true,
+      "item": "coding"
+    },
+    {
+      "id": "1",
+      "checked": false,
+      "item": "coding"
+    }
+  ]
+}
